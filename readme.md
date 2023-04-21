@@ -2,7 +2,7 @@ readme.md
 <br>
 
 <p align="center">
-  <img alt="projeto relogio" src=".github/image.jpg" width="100%">
+  <img alt="projeto relogio" src="https://github.com/vasijess/relogio/blob/main/github/image.png?raw=true" width="100%">
 </p>
 ## 💻 Projeto
 
